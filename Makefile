@@ -1,5 +1,5 @@
-REGISTRY=quay.io
-PRODUCT=kkohtaka/edgetpu-device-plugin
+REGISTRY=docker.io
+PRODUCT=billimek/edgetpu-device-plugin
 
 default: build
 

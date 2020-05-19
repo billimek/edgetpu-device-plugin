@@ -1,5 +1,5 @@
-REGISTRY=quay.io
-PRODUCT=kkohtaka/edgetpu-demo
+REGISTRY=docker.io
+PRODUCT=billimek/edgetpu-demo
 
 default: build
 
